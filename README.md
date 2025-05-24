@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
-NAME:MANIKANDAN M
-REG NO:212224040183
+NAME:rahul v
+REG NO:212223240132
 
 
 # Aim : 
